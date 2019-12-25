@@ -135,7 +135,7 @@ def randomString(stringLength=10):
 ```
 
 ### Main part of classify and save some important variables to prepare for next step
-
+```
 classify = Blueprint('classify', __name__)
 
 @classify.route('/classify', methods=['POST'])
