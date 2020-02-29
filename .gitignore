@@ -1,5 +1,4 @@
 uploads
 static/model_vgg.h5
-static/catdog_classifier_MobileNetV2.h5
 Dinh_version.ipynb
 transformation_visualization.ipynb

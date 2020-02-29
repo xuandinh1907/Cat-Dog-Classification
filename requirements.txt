@@ -1,0 +1,5 @@
+flask
+numpy
+tensorflow==2.0.1
+requests
+psycopg2
