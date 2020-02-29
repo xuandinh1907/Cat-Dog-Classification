@@ -25,7 +25,7 @@ Non-trainable params: 14,714,688
 - Validation accuracy : 89%
 
 # Flask app
-- Donwload file model_vgg.h5 [here]https://drive.google.com/file/d/1bubWtVp_2M9FtsJQ55cZficgKnWRsxEX/view?usp=sharing)
+- Donwload file model_vgg.h5 [here](https://drive.google.com/file/d/1bubWtVp_2M9FtsJQ55cZficgKnWRsxEX/view?usp=sharing)
 - Move file to static/model_vgg.h5
 - install virtual environment by command `pip install -r requirements.txt`
 - run app by command `python main.py`
