@@ -16,6 +16,7 @@ Asirra is unique because of its partnership with [petfinder.com](https://www.pet
 
 # Data
 ![](static/images/woof_meow.jpg)
+
 The training archive contains 25,000 images of dogs and cats.
 
 Download dataset [here](https://www.kaggle.com/c/dogs-vs-cats/data)
