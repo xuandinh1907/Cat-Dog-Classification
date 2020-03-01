@@ -12,9 +12,9 @@ In this project,I'll write an algorithm whether to classify images contain eithe
 
 Such a challenge is often called a [CAPTCHA](http://www.captcha.net/) (Completely Automated Public Turing test to tell Computers and Humans Apart) or HIP (Human Interactive Proof).
 
-<p aligh="justify">HIPs are used for many purposes,such as to reduce email and blog spam and prevent brute-force attacks on web site passwords.
+<p aligh="justify">HIPs are used for many purposes,such as to reduce email and blog spam and prevent brute-force attacks on web site passwords.</p>
 
-Asirra (Animal Species Image Recognition for Restricting Access) is a HIP that works by asking users to identify photographs of cats and dogs.This task is difficult for computers,but studies have shown that people can accomplish it quickly and accurately.Many even think it's fun! Here is an example of the Asirra interface:</p>
+<p aligh="justify">Asirra (Animal Species Image Recognition for Restricting Access) is a HIP that works by asking users to identify photographs of cats and dogs.This task is difficult for computers,but studies have shown that people can accomplish it quickly and accurately.Many even think it's fun! Here is an example of the Asirra interface:</p>
 
 Asirra is unique because of its partnership with [petfinder.com](https://www.petfinder.com/),the world's largest site devoted to finding homes for homeless pets.
 
